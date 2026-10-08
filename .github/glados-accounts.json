@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "accounts": [
+    {
+      "accountKey": "FEA441DC6FBBF250",
+      "times": [
+        "09:30"
+      ],
+      "exchangePlan": "plan500",
+      "enabled": true
+    }
+  ],
+  "time": "09:30",
+  "exchangePlan": "plan500",
+  "appVersion": "1.2.0",
+  "defaults": {
+    "times": [
+      "09:30"
+    ],
+    "exchangePlan": "plan500"
+  },
+  "maintenance": {
+    "retentionDays": 3,
+    "cleanupTime": "03:43",
+    "cleanupEnabled": true,
+    "keepaliveEnabled": true
+  },
+  "timezone": "Asia/Taipei",
+  "reporting": {
+    "keyId": "5603b04c18faf46686ad1d5af88ec2a3",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEA8RoBb3M03oXX0IcDJ6r+\nIAe9HsGA30l+QMjYlSQr0GD0Z+COUO2qTcApbSGnIgB52hg3yIIk5qokDmzjCppz\ng9FWz7PdHc2opFt1mNBsOAQppgMOpmouJO6ycHKq7M0jdzFGeZkwNah+ogAmzShe\nrlOalqojyviSzVTspNW3ANe1sfsH2QHot2JZKG8dIUUU5UmhbsTjdx5uZwzaxtfS\nel5F/CtQybI2+KcZVn5OnMhmOWeNWdZpfRq8ImT/K/R2ArRbsjKjWH9PGTVLNnGY\nIlCVQfmCtGvdzB0eS1cOktRGYF8lekIy6F5t82xlnTTMyMKufMExxX7d0OsDy+BP\nxEwwapAtav/92sTwqgmnW+68XkpVENb5GbC1KKilQy+/TXfgeMmsNQ5DQYVSLRzE\n384y21DT3wvEYYnF38AHyfJNok2jdHUK50f/fZQGJf/mM9LpFX8z/2VHUs4F9z5K\ncqwBH/MRw3Q37Dic9fS3QA24UqxRiEs1yGBvojyQC2SRAgMBAAE=\n-----END PUBLIC KEY-----\n"
+  }
+}
